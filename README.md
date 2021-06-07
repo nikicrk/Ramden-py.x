@@ -27,3 +27,4 @@ $ python2 run.py
 <a href="https://www.facebook.com/Nikyi.py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zettid.1" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UCyRQesO6I0SgE2RbGfRPS7g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asmin dev" height="30" width="40" /></a>
 </p>
+Git pulll
